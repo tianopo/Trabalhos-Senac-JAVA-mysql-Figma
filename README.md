@@ -1,9 +1,10 @@
 # Programa de Cadastro de filmes no banco de dados
 
-## Requisitos
+## Programas
 
   1. Netbeans IDE 13
   2. Mysql
+  3. Figma
 
 ##Objetivo
 
